@@ -1,0 +1,51 @@
+
+/* -------Header CSS------ */
+.navbar {
+    font-family: 'Roboto Slab', serif;
+    height: 60px;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 30px;
+    text-transform: uppercase;
+    box-shadow: 0 8px 6px -6px gray;
+    --webkit-box-shadow: 0 8px 6px -6px gray;
+    border-bottom: solid gray !important;
+    background-color: rgb(198, 197, 202);
+}
+
+
+.logo {
+    color: rgb(244, 42, 6);
+}
+
+/* -------Footer CSS------ */
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+    height: 40px;
+    box-shadow: 0 8px 6px -6px gray;
+    --webkit-box-shadow: 0 8px 6px -6px gray;
+    border-top: solid gray !important;
+    background-color: rgb(198, 197, 202);
+}
+
+/* -------LocationMenu CSS------ */
+.sidebarr{
+    font-family: 'Roboto Slab', serif;
+    font-weight:500;
+    padding: 15px;
+}
+
+
+.sidebarr:hover{
+    color:rgb(244, 79, 50);
+}
+
+
+/* -------Layout CSS------ */
+.main-section{
+    margin-top: 30px;
+    min-height: 80vh;
+}

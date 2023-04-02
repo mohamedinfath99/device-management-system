@@ -1,0 +1,62 @@
+.heading h1{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.card-details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.form-control {
+    padding: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+
+.btn-submit {
+    width: 400px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.modal-width {
+    width: 700px !important;
+}
+
+td {
+    padding: 10px !important;
+    text-transform: uppercase;
+}
+
+.ms-2{
+    text-transform: uppercase;
+}
+
+
+.card{
+    padding: 0;
+}
+
+.heading {
+    background-color: rgba(61, 60, 60, 0.097);
+    background-position: center;
+    background-size: cover;
+    height: 70px;
+}
+
+
+.loc-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

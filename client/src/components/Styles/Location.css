@@ -1,0 +1,28 @@
+.heading h1{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.cat-btn {
+    padding: 30px 0px;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.cat-btn:hover {
+    background-color: #434343;
+    color: white;
+}
+
+
+.locationName{
+    font-size: 34px;
+    font-weight: bold;
+}
+
+
+.cat-btn h6{
+    color: rgb(167, 167, 221);
+}
